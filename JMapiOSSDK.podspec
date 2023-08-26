@@ -7,7 +7,7 @@ s.version='5.12.2'
 
   s.homepage         = 'http://www.jibestream.com/'
   s.author           = { 'Louie' => 'lyuen@jibestream.com' }
-  s.source           = { :git => 'https://github.com/Jibestream/JMap-iOS-SDK-Pod.git', :tag => "#{s.version}" }
+  s.source           = { :git => 'https://github.com/John-Wiens/JMap-iOS-SDK-Pod.git', :tag => "#{s.version}" }
 
   s.ios.deployment_target = '10.0'
   s.platform = :ios, '9.0'
